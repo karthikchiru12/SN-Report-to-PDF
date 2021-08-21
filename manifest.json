@@ -1,5 +1,5 @@
 {
-    "name": "SN Reports to PDF",
+    "name": "SN Report to PDF",
     "description": "An alternative approach to export reports to high quality PDF in servicenow.",
     "version": "1.0",
     "manifest_version": 3,
