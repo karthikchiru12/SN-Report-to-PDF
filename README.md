@@ -1,7 +1,7 @@
 # SN-Report-to-PDF
 An open-source chrome extension that provides a way to export reports to high-quality PDF.
 
-This extension enhances the existing **Export to PDF** option of reports in ServiceNow. When this extension is enabled, Instead of opening the default dialog box when clicked on **Export to PDF** option, a new tab with a printer-friendly version of the report is displayed. Where you can configure how you want the PDF to print using the inbuilt print dialog box in your browser. This extension leverages the `&sysparm_media=print` feature within ServiceNow to export high-quality PDF of reports. 
+This extension enhances the existing **Export to PDF** option of reports in ServiceNow. When this extension is enabled, Instead of opening the default dialog box when clicked on **Export to PDF** option, a new tab with a printer-friendly version of the report is displayed. Where you can configure PDF print options using the inbuilt print dialog box in your browser. This extension leverages the `&sysparm_media=print` feature within ServiceNow to export high-quality PDF of reports. 
 
 
 ## Disclaimer
